@@ -1,0 +1,8 @@
+azure-functions
+azure-kusto-data
+azure-kusto-ingest
+azure-cosmos
+pandas==0.24.2
+azure-storage==0.36.0
+applicationinsights
+azure-eventgrid
